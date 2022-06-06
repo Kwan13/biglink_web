@@ -1,0 +1,34 @@
+@font-face {
+  font-family: K2D-Bold;
+  src: url(../assets/fonts/K2D/K2D-Bold.ttf);
+}
+
+@font-face {
+  font-family: K2D-Italic;
+  src: url(../assets/fonts/K2D/K2D-Italic.ttf);
+}
+
+@font-face {
+  font-family: K2D-Light;
+  src: url(../assets/fonts/K2D/K2D-Light.ttf);
+}
+
+@font-face {
+  font-family: K2D-Medium;
+  src: url(../assets/fonts/K2D/K2D-Medium.ttf);
+}
+
+@font-face {
+  font-family: K2D-Regular;
+  src: url(../assets/fonts/K2D/K2D-Regular.ttf);
+}
+
+@font-face {
+  font-family: K2D-SemiBold;
+  src: url(../assets/fonts/K2D/K2D-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: K2D-Thin;
+  src: url(../assets/fonts/K2D/K2D-Thin.ttf);
+}
